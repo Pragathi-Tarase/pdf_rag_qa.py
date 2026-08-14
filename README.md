@@ -1,7 +1,6 @@
-# Text to Voice Conversion
+﻿# PDF RAG QA System
 
-A small Python text-to-speech conversion project using `gTTS`.
+This is a Python project for PDF-based RAG (Retrieval-Augmented Generation) Q&A system.
 
 ## Files
-
-- `text_to_voice_.py` — simple script that accepts an input text string and saves an MP3 audio file.
+- untitled13.py: Main project file
